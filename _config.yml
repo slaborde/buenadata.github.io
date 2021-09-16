@@ -1,27 +1,12 @@
 # Site settings
-title: Buena Data
-email: seba.laborde@gmail.com
-description: Buenad Data NOW #> # this means to ignore newlines until "baseurl:"
+title:
+email:
+description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-# Set theme
-remote_theme: volny/creative-theme-jekyll
-
-twitter_username: slaborde
-github_username: slaborde
+twitter_username:
+github_username:
 
 # Build settings
 markdown: kramdown
-
-plugins:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-paginate
-- jekyll-seo-tag
-- jekyll-redirect-from
-- jekyll-feed
-- jekyll-commonmark
-- jekyll-include-cache
-- jemoji
-- jekyll-remote-theme
